@@ -1,5 +1,5 @@
 """ READ.ME : https://www.hackerrank.com/challenges/s10-quartiles/problem """
-
+""" Instead of manually entering the data one by one, we performed quartiles on the data we brought from the interval we determined with the random method."""
 import random
 from statistics import median
 
